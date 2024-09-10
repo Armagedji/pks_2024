@@ -1,7 +1,8 @@
 # practice1
 
 A new Flutter project.
-![alt text](image.png)
+![screenshot](https://github.com/user-attachments/assets/2a398b82-5191-4488-a331-5e72d4190976)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
