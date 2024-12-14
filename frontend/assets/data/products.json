@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/header_russian.jpg?t=1730212926",
+    "description": "Эпическая RPG, где игроки исследуют огромный мир, сражаются с монстрами и решают моральные дилеммы.",
+    "shortDescription": "Открытый мир, сражения с монстрами и напряженные сюжетные решения.",
+    "price": "1500"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgJO0q8z6FRR2mzAPUYZLh9bEAu1sO7MF7A&s",
+    "description": "Шутер от первого лица в открытом мире с элементами RPG, действие происходит в мрачном будущем.",
+    "shortDescription": "Мир будущего, уникальные технологии и захватывающие сюжетные линии.",
+    "price": "2500"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMmKiD9ge2VTy2CTf2VV05zq9dnrw-NQMdQ&s",
+    "description": "Дикий запад, открытый мир, потрясающая графика и захватывающий сюжет о ковбоях.",
+    "shortDescription": "Жизнь на Диком Западе с приключениями и драмами.",
+    "price": "1700"
+  },
+  {
+    "title": "Minecraft",
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+    "description": "Песочница, позволяющая создавать и исследовать миры из блоков. Бесконечные возможности для творчества.",
+    "shortDescription": "Построение и исследование блокового мира.",
+    "price": "800"
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151640/capsule_616x353.jpg?t=1729030787",
+    "description": "Приключенческая игра с открытым миром, где люди сражаются с роботами в постапокалиптическом будущем.",
+    "shortDescription": "Будущее, в котором человечество борется с роботами.",
+    "price": "1900"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOFIOP7gP0RTUbYogkHRXE1tOqhaTxCsGXA&s",
+    "description": "Игра с открытым миром, где игроки могут заниматься преступной деятельностью, участвовать в ограблениях и гонках.",
+    "shortDescription": "Преступления, гонки и хаос в открытом мире.",
+    "price": "1200"
+  },
+  {
+    "title": "DOOM Eternal",
+    "image": "https://assets.xboxservices.com/assets/34/0a/340ada26-49f7-48f1-a572-b27dd6ec766b.jpg?n=DOOM-Eternal_GLP-Page-Hero-0_1083x609_02.jpg",
+    "description": "Шутер с быстрым темпом, где игрок сражается с демонами в аду и на Земле.",
+    "shortDescription": "Сражения с демонами и динамичные боевые действия.",
+    "price": "1800"
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg?t=1697654233",
+    "description": "Экшн-RPG, основанная на эпохе викингов, с исследованиями, боевыми действиями и элементами стратегии.",
+    "shortDescription": "Жизнь викинга, завоевания и исследования.",
+    "price": "2000"
+  },
+  {
+    "title": "Far Cry 5",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552520/capsule_616x353.jpg?t=1694554810",
+    "description": "Шутер с открытым миром, действие которого происходит в Америке, захваченной культом апокалипсиса.",
+    "shortDescription": "Борьба с культом и спасение мира.",
+    "price": "1000"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1726158438",
+    "description": "Экшн-игра с жесткими боями и элементами стелса, действие которой происходит в Японии эпохи самураев.",
+    "shortDescription": "Сражения самураев и уникальный стиль боевых действий.",
+    "price": "2200"
+  }
+]
