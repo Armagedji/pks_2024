@@ -31,7 +31,7 @@ class _ChatState extends State<Chat> {
     final receiverStream = Supabase.instance.client.from('chat').stream(primaryKey: ['id'])
       .eq('receiver_id', receiver_id)
       .order('created_at', ascending: true);
-      
+
     chat = Rx.combineLatest2<List<Map<String, dynamic>>, List<Map<String, dynamic>>, List<Map<String, dynamic>>>(
       senderStream,
       receiverStream,
@@ -88,7 +88,7 @@ class _ChatState extends State<Chat> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.white,
-        title: const Center(child: Text("Чат", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 35))),
+        title: const Text("Чат"),
           leading: IconButton(
           onPressed: () {
             setState(() {
